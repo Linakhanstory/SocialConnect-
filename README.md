@@ -81,5 +81,6 @@ Build Errors: If build errors occur, run cd android && ./gradlew clean to clear 
 This project is licensed under the MIT License
 
 
-Developed by: App Development Intern
-              Aleena Khan.
+Developed by:
+App Development Intern,
+Aleena Khan.
