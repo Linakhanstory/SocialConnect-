@@ -1,4 +1,5 @@
 Project Name: SocialConnect
+
 A feature-rich social media application built with React Native and Firebase, designed to provide a seamless social networking experience for users to connect, 
 share posts, and communicate in real-time.
 
@@ -43,8 +44,7 @@ cd socialconnect
 2. Install Dependencies
 
 npm install
-# or
-yarn install
+
 
 3. Set up Firebase
 Place your google-services.json file in the android/app/ directory.
@@ -83,6 +83,7 @@ Build Errors: If build errors occur, run cd android && ./gradlew clean to clear 
 
  License
 This project is licensed under the MIT License
+
 
 Developed by: App Development Intern
               Aleena Khan.
