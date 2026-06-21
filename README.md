@@ -38,13 +38,9 @@ A physical Android device or Emulator
 
 Getting Started
 1. Clone the Repository
-git clone https://github.com/yourusername/socialconnect.git
-cd socialconnect
-
 2. Install Dependencies
 
 npm install
-
 
 3. Set up Firebase
 Place your google-services.json file in the android/app/ directory.
